@@ -40,13 +40,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raniaamil&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniaamil&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
 ## 🌍 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/rania-amil/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
   </a>
