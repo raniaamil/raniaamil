@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>👋 Hi, I'm Rania Amil</h1>
+  <h1>Hi, I'm Rania Amil 👋</h1>
   <p>
-    💻 Application Developer specialized in <strong>AI & Cloud</strong><br>
-    🚀 Passionate about <strong>Machine Learning, DevOps</strong> and building <strong>innovative projects</strong><br>
-    🎯 Currently seeking an <strong>Apprenticeship / POEI</strong> to grow into a <strong>Machine Learning Engineer</strong>
+    <em>Application Developer · Specializing in AI & Cloud</em> 
+    <br>
+    <br>
   </p>
   
   <!-- Badges -->
@@ -25,11 +25,13 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Background in **Economics, Marketing, and Application Development**  
-- 🛠️ Experienced with **Full-stack development (Symfony, React, Next.js, MySQL)**  
-- ☁️ Learning and building projects with **Azure, DevOps, CI/CD pipelines**  
-- 🤖 Exploring **Machine Learning & Data Science** through personal and academic projects  
-- 🌍 Entrepreneurial mindset – working on multiple projects in **tech, education & content creation**  
+
+- 🎯 Currently seeking an <strong>Apprenticeship</strong> to grow into a <strong>Machine Learning Engineer</strong>
+- 🎓 Background in **Economics, Marketing, and Application Development**
+- 📊 Passionate about **Machine Learning & Data Science**
+- 🤖 Exploring **Machine Learning & Data Science** through personal and academic projects
+<!-- - ☁️ Exploring **Cloud & DevOps** (Azure, CI/CD, Jenkins)
+- ☁️ Learning and building projects with **Azure, DevOps, CI/CD pipelines** -->  
 
 ---
 
