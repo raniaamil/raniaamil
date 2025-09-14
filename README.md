@@ -34,8 +34,8 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 [MangalySymfony](https://github.com/raniaamil/mangalysymfony) – Manga & Anime community platform (Symfony + MySQL)  
-- 🔹 [Maison d’Actions Solidaires](https://github.com/raniaamil/maison_actions_solidaires) – Website for a non-profit organization (Next.js + Tailwind)  
+- [MangalySymfony](https://github.com/raniaamil/mangalysymfony) – Manga & Anime community platform 
+- [Maison d’Actions Solidaires](https://github.com/raniaamil/maison_actions_solidaires) – Website for a non-profit organization 
 
 ---
 
@@ -62,4 +62,4 @@
 
 ---
 
-<p align="center"><em>“I believe in using technology to create value, impact, and opportunities for everyone.”</em></p>
+<p align="center"><em>“Technology is best when it brings people together.” — Matt Mullenweg</em></p>
